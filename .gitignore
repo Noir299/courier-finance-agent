@@ -1,0 +1,16 @@
+/data/
+/原始附件/
+/models/
+/ollama/
+/runtime/
+/启动.exe
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.sqlite3-*
+*.zip
+*.7z
+*.7z.*
+.env
+.env.*
